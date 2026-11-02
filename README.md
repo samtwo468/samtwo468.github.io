@@ -1,1 +1,1 @@
-# samtwo468.github.io
+# hello i currently do not have any other 'finished' projects to display so my home page is going to send you off to this one thank you
