@@ -1,1 +1,1 @@
-# hello i currently do not have any other 'finished' projects to display so my home page is going to send you off to this one thank you
+# hello currently this is my only finished project so instead of a landing page i will directly redirect you to it thank you

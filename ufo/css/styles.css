@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Alien;
+    src: url('../fonts/UFO50-Alien.ttf') format('truetype');
+}
+
+title {
+    font-family: 'Alien';
+}
