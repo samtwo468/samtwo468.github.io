@@ -3,6 +3,6 @@
     src: url('../fonts/UFO50-Alien.ttf') format('truetype');
 }
 
-title {
+#test_text {
     font-family: 'Alien';
 }
